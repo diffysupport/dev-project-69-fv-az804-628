@@ -1,5 +1,5 @@
 basic:
-    name: 'Donnelly Ltd'
+    name: 'Gottlieb, Lowe and Corwin'
     environments:
         production: 'https://google.com'
         staging: ''
